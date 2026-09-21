@@ -28,7 +28,6 @@ Projeyi çalışırken görmek için:
 
 **[▶ TREX TWIN Demo Videosunu İzle](docs/demo/trex-twin-demo.mp4)**
 
-> Video dosyasını `docs/demo/trex-twin-demo.mp4` adıyla repoya ekleyin. İsterseniz daha sonra bu bağlantıyı YouTube, Google Drive veya GitHub video bağlantısıyla da değiştirebilirsiniz.
 
 ---
 
