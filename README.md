@@ -44,7 +44,7 @@ Kullanıcı, çalışan kimliği ve parola ile sisteme giriş yapabilir. **Remem
 ### Üretim Hatları
 
 <p align="center">
-  <img src="/02-uretim-hatlari.png" alt="Üretim Hatları" width="95%">
+  <img src="screenshots/02-uretim-hatlari.png" alt="Üretim Hatları" width="95%">
 </p>
 
 Her üretim hattı için üretim durumu, planlanan ve gerçekleşen üretim, kalan miktar, hurda, anlık hız, duruş süresi ve OEE bileşenleri görüntülenebilir.
@@ -52,7 +52,7 @@ Her üretim hattı için üretim durumu, planlanan ve gerçekleşen üretim, kal
 ### Fabrika Durumu ve AI Insight
 
 <p align="center">
-  <img src="docs/screenshots/03-fabrika-durumu.png" alt="Fabrika Durumu" width="95%">
+  <img src="/screenshots/03-fabrika-durumu.png" alt="Fabrika Durumu" width="95%">
 </p>
 
 Sistem; çalışan ve duran hatları, uzun süreli duruşları, planlı/plansız duruşları ve kritik olayları özetler. Yapay zekâ destekli **Factory Assistant Insight**, mevcut operasyonel tabloyu yorumlayarak kullanıcıya kısa bir karar desteği sunar.
@@ -60,7 +60,7 @@ Sistem; çalışan ve duran hatları, uzun süreli duruşları, planlı/plansız
 ### Factory Feed
 
 <p align="center">
-  <img src="docs/screenshots/04-factory-feed.png" alt="Factory Feed" width="95%">
+  <img src="/screenshots/04-factory-feed.png" alt="Factory Feed" width="95%">
 </p>
 
 Fabrika içi güncellemeler, üretim hattı hikâyeleri, paylaşımlar ve performans odaklı içerikler tek bir akışta görüntülenebilir.
@@ -68,7 +68,7 @@ Fabrika içi güncellemeler, üretim hattı hikâyeleri, paylaşımlar ve perfor
 ### Liderlik Tablosu
 
 <p align="center">
-  <img src="docs/screenshots/05-liderlik-tablosu.png" alt="Liderlik Tablosu" width="95%">
+  <img src="/screenshots/05-liderlik-tablosu.png" alt="Liderlik Tablosu" width="95%">
 </p>
 
 Hatlar ve personel; günlük, haftalık, aylık ve yıllık dönemlerde performans göstergelerine göre karşılaştırılabilir.
@@ -76,7 +76,7 @@ Hatlar ve personel; günlük, haftalık, aylık ve yıllık dönemlerde performa
 ### Personel Yönetimi
 
 <p align="center">
-  <img src="docs/screenshots/06-personel.png" alt="Personel Yönetimi" width="95%">
+  <img src="/screenshots/06-personel.png" alt="Personel Yönetimi" width="95%">
 </p>
 
 Personel ekranında aktif çalışanlar, izinli personel, kritik devamsızlık, atanan üretim hattı, vardiya ilerlemesi, üretim, hurda, OEE ve duruş bilgileri takip edilebilir.
@@ -84,7 +84,7 @@ Personel ekranında aktif çalışanlar, izinli personel, kritik devamsızlık, 
 ### Vardiya ve Devam Durumu
 
 <p align="center">
-  <img src="docs/screenshots/07-vardiya-ozeti.png" alt="Vardiya Özeti" width="95%">
+  <img src="/screenshots/07-vardiya-ozeti.png" alt="Vardiya Özeti" width="95%">
 </p>
 
 Seçilen personelin aylık/yıllık çalışma, izin ve devamsızlık istatistikleri görsel olarak incelenebilir.
@@ -92,7 +92,7 @@ Seçilen personelin aylık/yıllık çalışma, izin ve devamsızlık istatistik
 ### Vardiya Takvimi
 
 <p align="center">
-  <img src="docs/screenshots/08-vardiya-takvimi.png" alt="Vardiya Takvimi" width="95%">
+  <img src="/screenshots/08-vardiya-takvimi.png" alt="Vardiya Takvimi" width="95%">
 </p>
 
 Gündüz vardiyası, gece vardiyası, izin, devamsızlık ve haftalık izin günleri takvim üzerinden görüntülenebilir.
@@ -370,24 +370,7 @@ Gerçek fabrika ortamına bağlanmadan önce aşağıdaki alanların üretim ort
 
 ---
 
-## 📂 README Medya Klasörleri
 
-Ekran görüntülerini ve videoyu aşağıdaki yapıda tutabilirsiniz:
-
-```text
-docs/
-├── screenshots/
-│   ├── 01-giris.png
-│   ├── 02-uretim-hatlari.png
-│   ├── 03-fabrika-durumu.png
-│   ├── 04-factory-feed.png
-│   ├── 05-liderlik-tablosu.png
-│   ├── 06-personel.png
-│   ├── 07-vardiya-ozeti.png
-│   └── 08-vardiya-takvimi.png
-│
-└── demo/
-    └── trex-twin-demo.mp4
 ```
 
 ---
