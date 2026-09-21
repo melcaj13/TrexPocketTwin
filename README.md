@@ -26,7 +26,7 @@ Proje içerisinde gerçek zamanlı sisteme benzer davranış oluşturmak için y
 
 Projeyi çalışırken görmek için:
 
-**[▶ TREX TWIN Demo Videosunu İzle](docs/demo/trex-twin-demo.mp4)**
+**[▶ TREX TWIN Demo Videosunu İzle](/trex-twin-demo.mp4)**
 
 
 ---
@@ -36,7 +36,7 @@ Projeyi çalışırken görmek için:
 ### Giriş Ekranı
 
 <p align="center">
-  <img src="docs/screenshots/01-giris.png" alt="TREX TWIN Giriş Ekranı" width="95%">
+  <img src="/screenshots/01-giris.png" alt="TREX TWIN Giriş Ekranı" width="95%">
 </p>
 
 Kullanıcı, çalışan kimliği ve parola ile sisteme giriş yapabilir. **Remember Me** seçeneği sayesinde oturum bilgileri cihaz üzerinde saklanabilir.
@@ -44,7 +44,7 @@ Kullanıcı, çalışan kimliği ve parola ile sisteme giriş yapabilir. **Remem
 ### Üretim Hatları
 
 <p align="center">
-  <img src="docs/screenshots/02-uretim-hatlari.png" alt="Üretim Hatları" width="95%">
+  <img src="/02-uretim-hatlari.png" alt="Üretim Hatları" width="95%">
 </p>
 
 Her üretim hattı için üretim durumu, planlanan ve gerçekleşen üretim, kalan miktar, hurda, anlık hız, duruş süresi ve OEE bileşenleri görüntülenebilir.
