@@ -2,11 +2,10 @@
 
 <img src="logo.png" alt="TREX Twin Logo" width="110"/>
 
-# TREX TWIN
+# TREX POCKET TWIN APP
 
-### Dijital Üretim Takibi, Fabrika Analitiği ve Yapay Zekâ Destekli Karar Destek Sistemi
+### Dijital Üretim Takibi, Fabrika Analitiği ve Yapay Zekâ Destekli Mobil Uygulama
 
-**Flutter • Provider • Google Gemini • Speech-to-Text • Text-to-Speech • Yerel Üretim Simülasyonu**
 
 </div>
 
